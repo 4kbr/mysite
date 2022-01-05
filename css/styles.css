@@ -1,0 +1,141 @@
+body{
+	margin: 0;
+	text-align: center;
+	font-family: 'Baloo Bhaijaan 2', cursive;
+}
+h1,h2{
+	color: #66BFBF;
+}
+h3{
+	color: #11999e;
+}
+h1{
+	font-size: 3.5rem;
+	margin-top: 50px;
+	font-family: 'Fuzzy Bubbles', cursive;
+}
+h2{
+	font-size: 2.5rem;
+}
+
+.main{
+	background-color: #EAF6F6;
+	position: relative;
+	padding-top: 100px;
+}
+.cloud{
+	position: absolute;
+}
+.cloud-top{
+	right: 300px;
+}
+.cloud-1{
+	top: 350px;
+	left: 400px;
+}
+
+
+/*midle-container*/
+.middle-container{
+	margin-top: 50px;
+	text-align: center;
+}
+p,li{
+	color: #40514E;
+	font-weight: bold;
+}
+hr{
+	height: 0;
+	width: 7%;
+	border: 10px dotted #353;
+	background-color: #fff;
+	border-style: dotted none none;
+	margin: 20px auto;
+	/*text-align: center;*/
+}
+.profile{
+	display: inline-block;
+	width: 50%;
+}
+.p_profile{
+	border-radius: 50%;
+	width: 150px;
+}
+.front-icon,.back-icon,.other-icon{
+	width: 200px;
+}
+.ul-front,.ul-back,.ul-other{
+	text-align: left;
+	display: inline-block;
+}
+.portfolio{
+	margin: 3.5rem auto;
+}
+.portfolio h2{
+	margin-bottom: 1.5rem;
+}
+.card-portfolio{
+	margin: 20px 0;
+}
+.btn{
+	background-color: #66BFBF;
+	display: inline-block;
+	text-align: center;
+	line-height: 50px;
+	width: 200px;
+	height: 50px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #eee;
+	border-radius: 20px;	
+}
+
+/*Bottom-container*/
+.bottom-container{
+	margin-top: 100px;
+	height: 100px;
+	background-color: #66BFBF;
+	padding-top: 30px;
+}
+.footer-link{
+	margin: 10px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #11999E;
+}
+.copyright{
+	color: #eaf6f6;
+}
+
+
+/*.back{
+	border: 10px solid #666;
+	position: relative;
+}*/
+/*.top-box,.middle-box,.bottom-box{
+	width: 200px;
+	height: 200px;
+}
+.top-box{
+	border: 10px solid #000;
+	padding: 20px;
+	background-color: #77E4D4;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	
+}
+.middle-box{
+	border: 20px solid #000;
+	background-color: #FBF46D;
+	position: absolute;
+	top: 260px;
+	left: 260px;
+}
+.bottom-box{
+	border: 10px solid #111;
+	background-color: #998CEB;
+	position: absolute;
+	top: 500px;
+	left: 500px;
+}*/
